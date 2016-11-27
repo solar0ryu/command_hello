@@ -1,3 +1,6 @@
+// For command line git tutorial
+// GitHub modification
+
 #include <stdio.h>
 
 int main(int argc, char* argv[])
